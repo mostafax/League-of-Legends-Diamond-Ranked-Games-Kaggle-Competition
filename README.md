@@ -25,4 +25,4 @@ python model.py
 
 ### Evaltation
 
-The model scored 72% on the test set after training for 100 epoch.
+The model scored 72% on the test set after training for 100 epochs.
